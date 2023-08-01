@@ -1,0 +1,22 @@
+{
+    "Olha Hreshnikova": "Olha Hreshnikova",
+    "Gdańsk, Poland": "Gdańsk, Polska",
+    "16 y.o.": "16 lat",
+    "Hi!": "Cześć!",
+    "I'm front-end react developer from Yakymivka(Ukraine)": "Jestem programistą front-end react z Yakymivky(Ukraina)",
+    "About me:": "O mnie:",
+    "As a Junior Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React and SCSS, I have a base in Gsap, RestApi, Git, ExpressJS, MongoDB and Figma. I excel in designing and maintaining responsive websites that offer a smooth user experience.": "Jako Junior Front-End Developer posiadam arsenał umiejętności w zakresie HTML, CSS, JavaScript, React i SCSS, głównie Gsap, RestApi, Git, ExpressJS, MongoDB i Figma. Specjalizuję się w projektowaniu i utrzymywaniu responsywnych stron internetowych, które zapewniają płynną obsługę dla klienta.",
+    "Teach Stack:": "Stos techniczny:",
+    "Portfolio": "Portfolio",
+    "My projects": "Moje projecty:",
+    "Series": "Filmy",
+    "Quizz": "Testy",
+    "Chat": "Czat",
+    "The site where you can find a list of films, cartoons and series in any genre. You can add movies to the site yourself, as well as edit movies added by another users.": "Strona, na której znajdziesz listę filmów, kreskówek i seriali dowolnych gatunków. Możesz samodzielnie dodawać filmy na stronę, a także edytować filmy dodane przez innych użytkowników.",
+    "The site where you can find a list of tests. Registered and authorized users (teachers) can create new tests, edit and delete old ones. Users who cannot register (students) take tests assigned by the teacher and at the end see their scores for passing the test.": "Strona, na której można znaleźć listę testów. Zarejestrowani i uprawnieni użytkownicy (nauczyciele) mogą tworzyć nowe testy, edytować i usuwać stare. Użytkownicy, którzy nie mogą się zarejestrować (uczniowie) przystępują do testów zadanych przez nauczyciela, a na koniec widzą swoje wyniki za test.",
+    "The site where the chat is located. In it, you must choose a name for yourself, from which messages will come. Old messages are not deleted and remain in the chat history.": "Strona, na której znajduje się czat. W niej musisz wpisać swoje imię, od którego będą się wysyłać wiadomości. Stare wiadomości nie są usuwane i pozostają w historii.",
+    "Don't be shy! Hit me up!": "Nie wstydź się! Zkontaktuj się ze mną!",
+    "client": "client",
+    "server": "server",
+    "site": "strona"
+}

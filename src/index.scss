@@ -1,0 +1,13 @@
+:root[data-theme="dark"] {
+    --color-background: #121318;
+    --color-background-l: rgb(66, 66, 66);
+    --color-text: rgb(217, 215, 215);
+}
+
+:root[data-theme="light"] {
+    --color-background: #f1f2f7;
+    --color-background-l: rgba(16, 15, 15, 0.055);
+    --color-text: black;
+
+
+}

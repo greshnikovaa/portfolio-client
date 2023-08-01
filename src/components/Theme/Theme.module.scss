@@ -1,0 +1,111 @@
+.theme {
+    *{
+        box-sizing: border-box;
+    }
+    span {
+        display: flex;
+        width: 100px;
+        height: 45px;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 6px;
+        background: #2e60a2;
+        border-radius: 50px;
+        cursor: pointer;
+        position: relative;
+    }
+
+    span i {
+        font-size: 28px;
+    }
+
+    span .sun {
+        color: gold;
+        transition: 0.8s;
+    }
+
+    span .moon {
+        color: #fff;
+        transition: 0.8s;
+    }
+
+    span .ball {
+        display: none;
+    }
+
+    span.light .sun {
+        transform: translateX(-43px);
+    }
+
+    span.light .moon {
+        transform: translateX(43px);
+    }
+
+    span .sun {
+        opacity: 1;
+    }
+
+    span.light .sun {
+        opacity: 0;
+    }
+
+    span .moon {
+        opacity: 0;
+    }
+
+    span.light .moon {
+        opacity: 1;
+    }
+
+    span .ball {
+        position: absolute;
+        display: block;
+        width: 35px;
+        height: 35px;
+        top: 5px;
+        left: 5px;
+        background: #fff;
+        border-radius: 50%;
+        transition: 0.8s;
+    }
+
+    span.light .ball {
+        transform: translateX(53px);
+    }
+
+    span .moon {
+        transform: translateX(43px);
+    }
+
+    span.light .moon {
+        transform: translateX(0);
+    }
+
+    span {
+        transition: 0.3s;
+    }
+
+    span.light {
+        background-color: #183f72;
+    }
+
+    span.light .ball {
+        background: #c0c0c0;
+    }
+
+    // input {
+    //     display: none;
+    // }
+
+    span.light .sun {
+        transform: translateX(-43px) rotate(160deg);
+    }
+
+    span .moon {
+        transform: translateX(43px) rotate(250deg);
+    }
+
+    span.light .moon {
+        transform: translateX(0), rotate(0);
+    }
+}

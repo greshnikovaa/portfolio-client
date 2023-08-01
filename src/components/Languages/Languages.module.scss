@@ -1,0 +1,19 @@
+.languages{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    .language{
+        color: white;
+        cursor: pointer;
+        border-radius: 50%;
+        padding: 20px 14px;
+        background-color: #2e60a2;
+        transition: 0.5s;
+        outline: none;
+        border: 0;
+    }
+    .language:hover{
+        background-color: #183f72;
+    }
+}

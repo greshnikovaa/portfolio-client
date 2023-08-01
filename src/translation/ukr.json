@@ -1,0 +1,22 @@
+{
+    "Olha Hreshnikova": "Ольга Грешнікова",
+    "Gdańsk, Poland": "Ґданськ, Польща",
+    "16 y.o.": "16 років",
+    "Hi!": "Привіт!",
+    "I'm front-end react developer from Yakymivka(Ukraine)": "Я розробниця front-end react з Якимівки(Україна)",
+    "About me:": "Про мене:",
+    "As a Junior Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React and SCSS, I have a base in Gsap, RestApi, Git, ExpressJS, MongoDB and Figma. I excel in designing and maintaining responsive websites that offer a smooth user experience.": "Як Junior Front-End розробник, я володію арсеналом навичок у HTML, CSS, JavaScript, React і SCSS, маю базові знання у Gsap, RestApi, Git, ExpressJS, MongoDB і Figma. Я чудово розробляю та підтримую адаптивні веб-сайти, які забезпечують користувачу зручну взаємодію.",
+    "Teach Stack:": "Технічний стек:",
+    "Portfolio": "Портфоліо:",
+    "My projects": "Мої проєкти",
+    "Series": "Серіали",
+    "Quizz": "Тести",
+    "Chat": "Чат",
+    "The site where you can find a list of films, cartoons and series in any genre. You can add movies to the site yourself, as well as edit movies added by another users.": "Сайт, де ви можете знайти список фільмів, мультфільмів і серіалів будь-яких жанрів. Ви можете самостійно додавати фільми на сайт, а також редагувати фільми, додані іншими користувачами.",
+    "The site where you can find a list of tests. Registered and authorized users (teachers) can create new tests, edit and delete old ones. Users who cannot register (students) take tests assigned by the teacher and at the end see their scores for passing the test.": "Сайт, де ви можете знайти список тестів. Зареєстровані та авторизовані користувачі (викладачі) можуть створювати нові тести, редагувати та видаляти старі. Користувачі, які не можуть зареєструватися (студенти), проходять тести, призначені викладачем, і в кінці бачать свої бали за проходження тесту.",
+    "The site where the chat is located. In it, you must choose a name for yourself, from which messages will come. Old messages are not deleted and remain in the chat history.": "Сайт, на якому знаходиться чат. На ньому ви мусите ввести своє ім'я, від якого будуть відсилатися повідомлення. Старі повідомлення не видаляються і залишаються в історії.",
+    "Don't be shy! Hit me up!": "Не соромтеся! Зв'яжіться зі мною!",
+    "client": "клієнт",
+    "server": "сервер",
+    "site": "сайт"
+}
