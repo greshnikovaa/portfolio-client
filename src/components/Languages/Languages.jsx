@@ -9,6 +9,7 @@ const Languages = () => {
         if(lang==='pol'){
             i18n.changeLanguage('pl');
             setLanguage('pl'); 
+            console.log(language)
         }
         if(lang==='eng'){
             i18n.changeLanguage('en');
