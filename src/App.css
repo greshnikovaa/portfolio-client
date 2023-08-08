@@ -30,10 +30,10 @@ body{
     justify-content: center !important;
 }
 .slick-arrow{
-    background-color: #f1f2f7 !important;
+    background-color: var(--color-buttons) !important;
     width: 1,1rem !important;
     height: 8rem !important;
-    box-shadow: 0 0 7px rgba(0,0,0,0.3);
+    box-shadow: 0 0 7px rgba(0,0,0,0.5);
 }
 .slick-arrow::before{
     color: #4582d2 !important;
